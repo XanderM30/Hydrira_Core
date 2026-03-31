@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714204003516",
+    "project_id": "hydrira-ae522",
+    "storage_bucket": "hydrira-ae522.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714204003516:android:acd7384500376e62f864b9",
+        "android_client_info": {
+          "package_name": "com.example.hidrira_core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkqrce-f1ZwHoFr9ofHLUHUEagfeLbo68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
